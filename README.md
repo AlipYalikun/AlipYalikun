@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--⚡About me: I got into coding from watching Sci-fi movies when I was younger and understood that coding can be the crucial part to shift the world around and change people's perspective. I have been enjoying software engineering ever since I partook in a team of Computer Science students to build a Volunteer Management System for a non-profit organization using PHP. I am currently on the lookout for a role in full-stack development, ideally writing Java or PHP. I would love to work in a growing business where I can make an impact. If you are hiring, let's chat.
+- ⚡About me: I got into coding from watching Sci-fi movies when I was younger and understood that coding can be the crucial part to shift the world around and change people's perspective. I have been enjoying software engineering ever since I partook in a team of Computer Science students to build a Volunteer Management System for a non-profit organization using PHP. I am currently on the lookout for a role in full-stack development, ideally writing Java or PHP. I would love to work in a growing business where I can make an impact. If you are hiring, let's chat.
 - 📫 How to reach me: `al.yalkun@gmail.com` .
