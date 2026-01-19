@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡I got into coding from watching Sci-fi movies when I was younger and understood that coding can be the crucial part to shift the world around and change people's perspective. I am currently on the lookout for a role in data scinece, ideally writing Python. I would love to work in a growing business where I can make an impact. If you are hiring, let's chat.
-🔭 I have over 5 years of coding and learning experience, complemented by hands-on projects.
-🌱 I am currently learning ML/AI.
-📫 Reach me at `al.yalkun@gmail.com` .
+- ⚡I got into coding from watching Sci-fi movies when I was younger and understood that coding can be the crucial part to shift the world around and change people's perspective. I am currently on the lookout for a role in data scinece, ideally writing Python. I would love to work in a growing business where I can make an impact. If you are hiring, let's chat.
+- 🔭 I have over 5 years of coding and learning experience, complemented by hands-on projects.
+- 🌱 I am currently learning ML/AI.
+- 📫 Reach me at `al.yalkun@gmail.com` .
